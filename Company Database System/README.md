@@ -43,4 +43,6 @@ How to run menu to query database:
 
 
 <h3> Example of Menu and MySQL Database </h3>
-[![demo1](https://github.com/firelegacy0/BC-Projects/blob/main/Company%20Database%20System/demo1.jpg)]
+
+![demo1](https://github.com/firelegacy0/BC-Projects/blob/main/Company%20Database%20System/demo1.jpg?)
+![demo2](https://github.com/firelegacy0/BC-Projects/blob/main/Company%20Database%20System/demo2.jpg?)
