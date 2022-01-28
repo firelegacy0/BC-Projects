@@ -40,3 +40,7 @@ How to run menu to query database:
 <p><strong>Option c:</strong> View Database - View Employee Info, Equipment, Supplies
 <p><strong>Option d:</strong> Update Database - Add new Equipment, Service, Customer Info, or Employee Info
 </p>
+
+
+<h3> Example of Menu and MySQL Database </h3>
+![demo1] (demo1.jpg)
