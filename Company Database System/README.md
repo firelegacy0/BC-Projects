@@ -36,7 +36,7 @@ How to run menu to query database:
 1) Run Task4.java, this is the .main file (named after our assigned Task as a group of two students)
 
 <h4> 3 out of 4 Menu Options are implemented: </h4>
-<p><strong> Option a:</strong> Financial Analysis tools - View Equipment & Supplies Analysis for Cost/Expenses </p>
+<p><strong> Option a:</strong> Business Analysis tools - View Equipment & Supplies Analysis for Cost/Expenses </p>
 <p><strong>Option b:</strong> Not implemented </p>
 <p><strong>Option c:</strong> View Database - View Employee Info, Equipment, Supplies
 <p><strong>Option d:</strong> Update Database - Add new Equipment, Service, Customer Info, or Employee Info
