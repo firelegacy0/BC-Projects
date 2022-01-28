@@ -1,6 +1,7 @@
 <h2> Introduction </h2>
   
 Simple Company Database System done in MYSQL Workbench and Java for CS331 Database System class's Final Project.
+Collaborated with my groupmate, Jason Ho in a team of 2.
 
 <h3> Skills: </h3>
 <p> -Simulate how traditional applications use Java to access and use data from a database <br>
