@@ -6,4 +6,7 @@ I've only uploaded projects that help demonstrate my KSA skills in Comp Sci.
 CS 331 - Database System
 > Company Database System - Cleaning Shop
 
+CS 380 - Web Programming
+> Website with Light/Dark Theme Switch Toggler
+
 CS 401 - Algorithms
