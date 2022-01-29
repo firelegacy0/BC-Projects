@@ -1,6 +1,7 @@
 <h2> Introduction </h2>
   
 Simple Company Database System done in MYSQL Workbench and Java for CS331 Database System class's Final Project.
+Collaborated with my groupmate, Jason Ho in a team of 2.
 
 <h3> Skills: </h3>
 <p> -Simulate how traditional applications use Java to access and use data from a database <br>
@@ -35,8 +36,14 @@ How to run menu to query database:
 1) Run Task4.java, this is the .main file (named after our assigned Task as a group of two students)
 
 <h4> 3 out of 4 Menu Options are implemented: </h4>
-<p><strong> Option a:</strong> Financial Analysis tools - View Equipment & Supplies Analysis for Cost/Expenses </p>
+<p><strong> Option a:</strong> Business Analysis tools - View Equipment & Supplies Analysis for Cost/Expenses </p>
 <p><strong>Option b:</strong> Not implemented </p>
 <p><strong>Option c:</strong> View Database - View Employee Info, Equipment, Supplies
 <p><strong>Option d:</strong> Update Database - Add new Equipment, Service, Customer Info, or Employee Info
 </p>
+
+
+<h2> Sample of Menu and MySQL Database </h2>
+
+![demo1](https://github.com/firelegacy0/BC-Projects/blob/main/Company%20Database%20System/demo1.jpg?)
+![demo2](https://github.com/firelegacy0/BC-Projects/blob/main/Company%20Database%20System/demo2.jpg?)
